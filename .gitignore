@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# PyInstaller
+dist/
+build/
+*.spec
+*.exe
+
+# IDE
+.idea/
+.vscode/
+
+# Environment
+venv/
+.env/
+*.env
+Pipfile
+Pipfile.lock

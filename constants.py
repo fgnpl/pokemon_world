@@ -1,0 +1,16 @@
+# Colors
+BEIGE = (241, 236, 219)
+BLACK = (0, 0, 0)
+WHITE = (255, 255, 255)
+RED = (255, 255, 0)
+LIGHT_GREEN = (144, 238, 144)
+
+# For the screen
+FPS = 60
+WIDTH = 1000
+HEIGHT = 785
+
+# For battles
+NOT_STARTED = -1
+STARTED = 0
+HIT_DELAY = 200
